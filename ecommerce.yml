@@ -1,6 +1,6 @@
 token:
-  expiration_time: 86400000
-  secret: your_jwt_user_token_secret_key_for_user_service
+  expiration_time: 864
+  secret: oh_my_jwt_user_token_secret_key_for_user_service
 
 
 gateway:
